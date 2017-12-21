@@ -1,10 +1,10 @@
 def fizzbuzz(n)
   if n % 15 == 0
-    return "fizzbuzz"
+    return "FizzBuzz"
   elsif n % 5 == 0
-    return "buzz"
+    return "Buzz"
   elsif n % 3 == 0
-    return "fizz"
+    return "Fizz"
   else nil
 end
 end
