@@ -6,5 +6,5 @@ def fizzbuzz(n)
   elsif n % 3 == 0
     return fizz
   else nil
-
+end   
 end
